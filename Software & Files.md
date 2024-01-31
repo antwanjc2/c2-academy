@@ -6,6 +6,11 @@ Windows Server 2019: [Link](https://go.microsoft.com/fwlink/p/?LinkID=2195167&cl
 Windows Server 2022: [Link](https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x409&culture=en-us&country=US)<br>
 ### SIEM ###
 QRadar 7.3.3 [Link](https://iwm.dhe.ibm.com/sdfdl/1v2/regs2/qrce/Xa.2/Xb.BjmKLEMux3COMzg5OUTsc7fcte5zltAEU-bCGOQKb5Y/Xc.QRadarCE733GA_v1_0.ova/Xd./Xf.lPr.D1vk/Xg.12669463/Xi.swg-qradarcom/XY.regsrvs/XZ.0acOtTdT1Ziw3u_hnEwjeCLjVJZq09S1/QRadarCE733GA_v1_0.ova)<br>
+Splunk Enterprise 9.1.3: [LINK](https://www.splunk.com/en_us/download/splunk-enterprise.html#)
+Graylog Open 5.2.3: [LINK]()
 ### VirtualBox ###
 VirtualBox 7.0.14 [Link](https://download.virtualbox.org/virtualbox/7.0.14/VirtualBox-7.0.14-161095-Win.exe)<br>
-VirtualBox 7.0.14 Extension Pack [Link](https://download.virtualbox.org/virtualbox/7.0.14/Oracle_VM_VirtualBox_Extension_Pack-7.0.14.vbox-extpack)
+VirtualBox 7.0.14 Extension Pack [Link](https://download.virtualbox.org/virtualbox/7.0.14/Oracle_VM_VirtualBox_Extension_Pack-7.0.14.vbox-extpack)<br>
+### Log Shippers/Forwarders ###
+Splunk Universal Forwarder  9.1.3 [LINK](https://www.splunk.com/en_us/download/universal-forwarder.html?locale=en_us#)
+
