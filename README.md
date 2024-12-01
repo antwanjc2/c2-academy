@@ -3,6 +3,14 @@
 # Lab layout
 <img width="436" alt="image" src="https://github.com/user-attachments/assets/bd17ade6-2a3a-418e-8849-bdec6fb06ee4">
 
+## General Password
+- **Username**: `virtlabuser`
+- **Password**: `virtlabuser01`
+
+## Windows Password (WindowsTiger, WindowsLynx)
+- **Username**: `virtlabuser`
+- **Password**: `virtlabuser01$$`
+
 ## Accessing OpenCTI
 In your web browser, go to: **[https://opencti.ctvlab.com/](https://opencti.ctvlab.com/)**.
 - **Username**: `student@ctvlab.com`
